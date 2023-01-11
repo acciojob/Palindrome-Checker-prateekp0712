@@ -10,5 +10,5 @@ function palindrome(str){
 	alert('it is a palindrome')
 
 }
-const string = prompt()
+
 module.exports = palindrome
